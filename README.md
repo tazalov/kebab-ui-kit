@@ -38,4 +38,4 @@ export const App = () => {
 }
   ```
 
-## More details of the components can be found here: [click](https://github.com/tazalov/kebab-ui-kit)
+## More details of the components can be found here: [click](https://kebab-ui-kit.vercel.app)
